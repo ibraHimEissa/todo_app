@@ -1,4 +1,6 @@
-# todo_app
+# Todo App
+
+![ToDo App](https://user-images.githubusercontent.com/43406126/158684341-42fa8371-3e24-4066-b678-2b1596a9a597.gif)
 
 A new Flutter project.
 
